@@ -1,0 +1,12 @@
+Cucei
+Windows
+Intel
+64
+Dayal
+Windows
+Intel
+8
+Gutierrez
+Linux
+Ryzen
+16
